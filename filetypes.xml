@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="StockTicker" type="PLAIN_TEXT" />
+      <mapping pattern="trust" type="PLAIN_TEXT" />
       <mapping ext="9" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
