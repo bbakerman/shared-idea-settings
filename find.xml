@@ -10,11 +10,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
-      <mask>*.m</mask>
       <mask>*.rst</mask>
       <mask>*.rs</mask>
       <mask>*.r</mask>
@@ -40,6 +35,11 @@
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.s</mask>
+      <mask>*.so</mask>
+      <mask>*.soy</mask>
     </recentFileMasks>
   </component>
 </application>
