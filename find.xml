@@ -1,16 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.rst</mask>
       <mask>*.rs</mask>
       <mask>*.r</mask>
       <mask>*.gr</mask>
@@ -22,10 +18,6 @@
       <mask>*.properti</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>p.xml</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
@@ -40,6 +32,11 @@
       <mask>*.s</mask>
       <mask>*.so</mask>
       <mask>*.soy</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>p.xml</mask>
+      <mask>po.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
