@@ -7,21 +7,8 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.properti</mask>
-      <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.s</mask>
@@ -31,13 +18,27 @@
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
       <mask>(</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>l</mask>
+      <mask>lo</mask>
+      <mask>log</mask>
+      <mask>log4</mask>
+      <mask>log4j</mask>
+      <mask>log4j*</mask>
+      <mask>log4j*.</mask>
+      <mask>log4j*.*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
