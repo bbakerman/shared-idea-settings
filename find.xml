@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="regularExpressions" value="true" />
@@ -7,6 +8,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
@@ -19,8 +21,6 @@
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
       <mask>(</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -40,6 +40,8 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
