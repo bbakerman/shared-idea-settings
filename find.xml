@@ -11,11 +11,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.soy" />
     <recentFileMasks>
-      <mask>po.xml</mask>
-      <mask>(</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>l</mask>
       <mask>lo</mask>
@@ -25,8 +22,6 @@
       <mask>log4j*</mask>
       <mask>log4j*.</mask>
       <mask>log4j*.*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.proper</mask>
@@ -42,6 +37,12 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.so</mask>
+      <mask>*.soy</mask>
     </recentFileMasks>
   </component>
 </application>
