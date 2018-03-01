@@ -9,9 +9,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>l</mask>
-      <mask>lo</mask>
       <mask>log</mask>
       <mask>log4</mask>
       <mask>log4j</mask>
@@ -38,8 +37,10 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
-      <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>p.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
