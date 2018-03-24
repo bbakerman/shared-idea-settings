@@ -9,11 +9,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yaml" />
     <recentFileMasks>
-      <mask>log</mask>
-      <mask>log4</mask>
-      <mask>log4j</mask>
-      <mask>log4j*</mask>
       <mask>log4j*.</mask>
       <mask>log4j*.*</mask>
       <mask>*.p</mask>
@@ -26,8 +23,6 @@
       <mask>*.java</mask>
       <mask>pom.xm</mask>
       <mask>s</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.so</mask>
       <mask>*.soy</mask>
@@ -40,6 +35,12 @@
       <mask>.xml</mask>
       <mask>p.xml</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ya</mask>
+      <mask>*.yam</mask>
+      <mask>*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
