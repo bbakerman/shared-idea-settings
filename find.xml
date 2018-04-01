@@ -11,9 +11,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.g4" />
     <recentFileMasks>
-      <mask>log4j*.</mask>
-      <mask>log4j*.*</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.proper</mask>
@@ -36,12 +35,14 @@
       <mask>.xml</mask>
       <mask>p.xml</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.ya</mask>
       <mask>*.yam</mask>
       <mask>*.yaml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.g4</mask>
     </recentFileMasks>
   </component>
 </application>
